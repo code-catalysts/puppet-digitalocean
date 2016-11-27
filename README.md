@@ -1,3 +1,5 @@
+# puppet-digitalocean
+
 a Puppet module for managing your [DigitalOcean](https://www.digitalocean.com/) droplets.
 
 This module uses the [Barge](https://github.com/boats/barge) DigitalOcean API Library.
