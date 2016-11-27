@@ -1,0 +1,14 @@
+{
+  "name": "puppet-digitalocean",
+  "version": "0.1.0",
+  "author": "Dhruv Sharma & Vijayant Saini",
+  "summary": "a Puppet module for managing your DigitalOcean droplets",
+  "license": "MIT",
+  "source": "https://github.com/code-catalysts/puppet-digitalocean.git",
+  "project_page": "https://github.com/code-catalysts/puppet-digitalocean",
+  "issues_url": "https://github.com/code-catalysts/puppet-digitalocean/issues",
+  "dependencies": [
+    
+  ]
+}
+
